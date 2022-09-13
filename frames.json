@@ -1,0 +1,318 @@
+{
+  "brass": [
+    "copper",
+    "zinc"
+  ],
+  "fortress": [
+    "stone",
+    "wood"
+  ],
+  "beachside": [
+    "flower",
+    "quartz"
+  ],
+  "volcanic": [
+    "copper",
+    "magma"
+  ],
+  "cherry blossom": [
+    "flower",
+    "wood"
+  ],
+  "spirit flame": [
+    "bone",
+    "wood"
+  ],
+  "night crow": [
+    "bone",
+    "zinc"
+  ],
+  "crystal mines": [
+    "quartz",
+    "stone"
+  ],
+  "submarine": [
+    "iron",
+    "uranium"
+  ],
+  "pirate voyage": [
+    "iron",
+    "wood"
+  ],
+  "kominka": [
+    "essence",
+    "wood"
+  ],
+  "magus": [
+    "essence",
+    "zinc"
+  ],
+  "magitek": [
+    "magma",
+    "uranium"
+  ],
+  "snowlands": [
+    "ice",
+    "wood"
+  ],
+  "ice cream sundae": [
+    "ice",
+    "sugar"
+  ],
+  "dragon hunt": [
+    "bone",
+    "wool"
+  ],
+  "patchwork": [
+    "essence",
+    "wool"
+  ],
+  "venice carnival": [
+    "flower",
+    "zinc"
+  ],
+  "robotic": [
+    "essence",
+    "uranium"
+  ],
+  "frills": [
+    "quartz",
+    "wool"
+  ],
+  "fuselage": [
+    "iron",
+    "zinc"
+  ],
+  "rozen": [
+    "flower",
+    "stone"
+  ],
+  "smithy forge": [
+    "magma",
+    "stone"
+  ],
+  "watermelon juice": [
+    "leaf",
+    "sugar"
+  ],
+  "faerie forest": [
+    "flower",
+    "leaf"
+  ],
+  "autumn view": [
+    "leaf",
+    "stone"
+  ],
+  "edo furin": [
+    "copper",
+    "quartz"
+  ],
+  "barbecue": [
+    "salt",
+    "zinc"
+  ],
+  "whirlpool": [
+    "ice",
+    "salt"
+  ],
+  "bubble bath": [
+    "ice",
+    "wool"
+  ],
+  "spaceship": [
+    "uranium",
+    "zinc"
+  ],
+  "wild west": [
+    "quartz",
+    "wood"
+  ],
+  "archery": [
+    "copper",
+    "wood"
+  ],
+  "tree frog": [
+    "bone",
+    "leaf"
+  ],
+  "scimitar fight": [
+    "bone",
+    "iron"
+  ],
+  "bamboo stalks": [
+    "leaf",
+    "wood"
+  ],
+  "chocolate orange": [
+    "essence",
+    "sugar"
+  ],
+  "tribal chief": [
+    "copper",
+    "stone"
+  ],
+  "abandoned church": [
+    "leaf",
+    "quartz"
+  ],
+  "long hair": [
+    "essence",
+    "salt"
+  ],
+  "water element": [
+    "ice",
+    "quartz"
+  ],
+  "carved stone": [
+    "clay",
+    "stone"
+  ],
+  "beauty": [
+    "clay",
+    "flower"
+  ],
+  "carnations": [
+    "flower",
+    "wool"
+  ],
+  "baroque": [
+    "clay",
+    "copper"
+  ],
+  "musical notes": [
+    "essence",
+    "iron"
+  ],
+  "winner's podium": [
+    "iron",
+    "stone"
+  ],
+  "manticore": [
+    "bone",
+    "magma"
+  ],
+  "tipsy": [
+    "salt",
+    "sugar"
+  ],
+  "nordic": [
+    "salt",
+    "stone"
+  ],
+  "shiba inu": [
+    "bone",
+    "essence"
+  ],
+  "toy mecha": [
+    "ice",
+    "uranium"
+  ],
+  "bubble tea": [
+    "ice",
+    "leaf"
+  ],
+  "morning dew": [
+    "flower",
+    "ice"
+  ],
+  "nurse's office": [
+    "bone",
+    "sugar"
+  ],
+  "honeycomb": [
+    "sugar",
+    "wax"
+  ],
+  "magical girl": [
+    "quartz",
+    "sugar"
+  ],
+  "tetromino": [
+    "essence",
+    "wax"
+  ],
+  "flying dragon": [
+    "bone",
+    "oil"
+  ],
+  "gaming chair": [
+    "oil",
+    "wool"
+  ],
+  "tanglung": [
+    "flower",
+    "oil"
+  ],
+  "pastel geometry": [
+    "wax",
+    "uranium"
+  ],
+  "lighthouse storm": [
+    "ice",
+    "stone"
+  ],
+  "chopsticks": [
+    "salt",
+    "wood"
+  ],
+  "haunted stone": [
+    "essence",
+    "stone"
+  ],
+  "kawaii bento": [
+    "salt",
+    "wool"
+  ],
+  "pocket pet": [
+    "bone",
+    "clay"
+    ],
+  "jade cherrywood": [
+    "clay",
+    "wood"
+  ],
+  "pharaoh": [
+    "clay",
+    "magma"
+  ],
+  "shisa": [
+    "leaf",
+    "salt"
+  ],
+  "butterfly garden": [
+    "essence",
+    "leaf"
+  ],
+  "labpunk": [
+    "oil",
+    "quartz"
+  ],
+  "wizard's hut": [
+    "oil",
+    "stone"
+  ],
+  "flame temple": [
+    "oil",
+    "zinc"
+  ],
+  "night ooze": [
+    "quartz",
+    "wax"
+  ],
+  "prehistoric": [
+    "bone",
+    "zinc"
+  ],
+  "malice tree": [
+    "magma",
+    "wood"
+  ],
+  "bewitched parchment": [
+    "essence",
+    "oil"
+  ],
+  "kraken": [
+    "salt",
+    "wax"
+  ]
+}
